@@ -1,6 +1,6 @@
 ﻿# intern2grow ui task1
 
-This is a solution to the [Tip calculator app challenge on Intern2grow Ui](https://intern2grow.vercel.app/). Intern2grow challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [ui developer challenge on Intern2grow Ui](https://intern2grow.vercel.app/). Intern2grow challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
